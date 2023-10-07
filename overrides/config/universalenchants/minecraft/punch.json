@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:bow",
+    "$minecraft:crossbow"
+  ],
+  "incompatible": [
+    "spellbound:repulsive",
+    "spellbound:airline",
+    "spellbound:phase_leap",
+    "spellbound:phase_strafe",
+    "mcdw:overcharge",
+    "spellbound:attractive",
+    "spellbound:cave_in",
+    "spellbound:impersonal",
+    "spellbound:launching",
+    "spellbound:tethering"
+  ]
+}

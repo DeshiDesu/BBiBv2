@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon"
+  ],
+  "incompatible": [
+    "spellbound:priming",
+    "spellbound:trophy_collecting",
+    "minecraft:smite",
+    "spellbound:mounted",
+    "spellbound:dullness",
+    "spellbound:jousting",
+    "minecraft:sharpness",
+    "spellbound:rampage",
+    "minecraft:bane_of_arthropods"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "$minecraft:universal_enchants_axe",
+    "$minecraft:trident"
+  ],
+  "incompatible": [
+    "spellbound:mounted",
+    "mcdw:illagers_bane",
+    "incantationem:swine_bane",
+    "mcdw:enigma_resonator",
+    "spellbound:priming",
+    "spellbound:trophy_collecting",
+    "spellbound:dullness",
+    "spellbound:jousting",
+    "mcdw:smiting",
+    "mcdw:void_strike",
+    "spellbound:rampage"
+  ]
+}

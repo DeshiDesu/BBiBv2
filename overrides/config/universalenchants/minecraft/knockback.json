@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "$minecraft:universal_enchants_axe",
+    "$minecraft:trident",
+    "$minecraft:universal_enchants_shield"
+  ],
+  "incompatible": [
+    "spellbound:repulsive",
+    "spellbound:airline",
+    "spellbound:phase_leap",
+    "spellbound:phase_strafe",
+    "spellbound:attractive",
+    "spellbound:cave_in",
+    "spellbound:impersonal",
+    "spellbound:launching",
+    "spellbound:tethering"
+  ]
+}

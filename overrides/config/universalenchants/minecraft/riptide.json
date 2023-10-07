@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:trident"
+  ],
+  "incompatible": [
+    "minecraft:loyalty",
+    "spellbound:repulsive",
+    "spellbound:airline",
+    "minecraft:channeling",
+    "spellbound:phase_leap",
+    "spellbound:phase_strafe",
+    "spellbound:attractive",
+    "spellbound:cave_in",
+    "spellbound:impersonal",
+    "spellbound:launching",
+    "spellbound:tethering"
+  ]
+}

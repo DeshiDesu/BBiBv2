@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:spellbound_ranged_weapon"
+  ],
+  "incompatible": [
+    "minecraft:aqua_affinity",
+    "minecraft:loyalty",
+    "spellbound:repulsive",
+    "spellbound:airline",
+    "spellbound:phase_leap",
+    "mcdw:overcharge",
+    "minecraft:soul_speed",
+    "minecraft:riptide",
+    "minecraft:knockback",
+    "minecraft:frost_walker",
+    "minecraft:channeling",
+    "spellbound:phase_strafe",
+    "minecraft:swift_sneak",
+    "spellbound:attractive",
+    "spellbound:impersonal",
+    "minecraft:punch",
+    "minecraft:depth_strider",
+    "spellbound:launching",
+    "spellbound:tethering"
+  ]
+}

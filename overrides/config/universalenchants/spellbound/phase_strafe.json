@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_legs"
+  ],
+  "incompatible": [
+    "minecraft:aqua_affinity",
+    "minecraft:loyalty",
+    "spellbound:repulsive",
+    "spellbound:airline",
+    "spellbound:phase_leap",
+    "mcdw:overcharge",
+    "minecraft:soul_speed",
+    "minecraft:riptide",
+    "minecraft:knockback",
+    "minecraft:frost_walker",
+    "minecraft:channeling",
+    "minecraft:swift_sneak",
+    "spellbound:attractive",
+    "spellbound:cave_in",
+    "spellbound:impersonal",
+    "minecraft:punch",
+    "minecraft:depth_strider",
+    "spellbound:launching",
+    "spellbound:tethering"
+  ]
+}

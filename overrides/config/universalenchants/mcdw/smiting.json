@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon"
+  ],
+  "incompatible": [
+    "mcdw:echo",
+    "mcdw:burst_bowstring",
+    "minecraft:smite",
+    "mcdw:pain_cycle",
+    "mcdw:enigma_resonator",
+    "mcdw:dynamo",
+    "mcdw:poison_cloud",
+    "spellbound:priming",
+    "mcdw:gravity",
+    "mcdw:void_shot",
+    "spellbound:dullness",
+    "mcdw:shockwave",
+    "mcdw:void_strike",
+    "minecraft:sharpness",
+    "mcdw:radiance",
+    "mcdw:critical_hit",
+    "mcdw:chains",
+    "mcdw:weakening",
+    "mcdw:committed",
+    "mcdw:swirling",
+    "mcdw:thundering",
+    "spellbound:mounted",
+    "mcdw:exploding",
+    "mcdw:levitation_shot",
+    "mcdw:ambush",
+    "spellbound:trophy_collecting",
+    "mcdw:cobweb_shot",
+    "spellbound:jousting",
+    "spellbound:rampage",
+    "minecraft:bane_of_arthropods"
+  ]
+}

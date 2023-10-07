@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:trident"
+  ],
+  "incompatible": [
+    "minecraft:smite",
+    "spellbound:mounted",
+    "mcdw:overcharge",
+    "minecraft:impaling",
+    "mcdw:illagers_bane",
+    "incantationem:swine_bane",
+    "minecraft:power",
+    "mcdw:enigma_resonator",
+    "spellbound:priming",
+    "spellbound:trophy_collecting",
+    "spellbound:dullness",
+    "mcdw:smiting",
+    "mcdw:void_strike",
+    "minecraft:sharpness",
+    "spellbound:rampage",
+    "minecraft:bane_of_arthropods"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:bow"
+  ],
+  "incompatible": [
+    "mcdw:chains",
+    "mcdw:poison_cloud",
+    "mcdw:weakening",
+    "mcdw:echo",
+    "mcdw:swirling",
+    "mcdw:thundering",
+    "mcdw:gravity",
+    "mcdw:chain_reaction",
+    "mcdw:shockwave",
+    "mcdw:smiting",
+    "mcdw:exploding"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon"
+  ],
+  "incompatible": [
+    "mcdw:committed",
+    "mcdw:ambush",
+    "mcdw:void_shot",
+    "mcdw:void_strike",
+    "mcdw:critical_hit",
+    "mcdw:pain_cycle",
+    "mcdw:enigma_resonator",
+    "mcdw:dynamo"
+  ]
+}

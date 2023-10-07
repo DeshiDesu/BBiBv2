@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor"
+  ],
+  "incompatible": [
+    "spellbound:grace",
+    "spellbound:death_wish",
+    "origins:water_protection",
+    "minecraft:fire_protection",
+    "minecraft:projectile_protection",
+    "spellbound:hearty",
+    "spellbound:red_alert",
+    "spellbound:flesh_wound",
+    "minecraft:blast_protection"
+  ]
+}

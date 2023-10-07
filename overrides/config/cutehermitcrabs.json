@@ -1,0 +1,6 @@
+{
+  "resistanceLevel": 3,
+  "spawnWeight": 10,
+  "minGroupSize": 2,
+  "maxGroupSize": 6
+}

@@ -1,0 +1,1517 @@
+{
+  "performVersionCheck": true,
+  "origins": {
+    "mythorigins:minotaur": {
+      "enabled": true,
+      "mythorigins:horns": true,
+      "mythorigins:axe_wielder": true,
+      "mythorigins:superiority": true,
+      "origins:strong_arms": true,
+      "origins:strong_arms_break_speed": true,
+      "mythorigins:large_torso": true,
+      "mythorigins:bigger": true
+    },
+    "aspects:anemo/tempus": {
+      "enabled": true,
+      "aspects:fleet": true,
+      "aspects:lightning_immunity": true,
+      "aspects:tempus_primary": true
+    },
+    "libra:curse_shulk": {
+      "enabled": true,
+      "origins:no_shield": true,
+      "libra:shulk_curse_slow": true,
+      "libra:curse_bad_luck": true,
+      "libra:curse_cure": true,
+      "libra:curse_death_remove": true,
+      "libra:curse_tablet_use": true,
+      "libra:curse_tablet_reiteration": true,
+      "libra:curse_reiteration_create": true
+    },
+    "origins:elytrian": {
+      "enabled": true,
+      "origins:elytra": true,
+      "origins:launch_into_air": true,
+      "origins:aerial_combatant": true,
+      "origins:light_armor": true,
+      "origins:claustrophobia": true,
+      "origins:more_kinetic_damage": true
+    },
+    "medievalorigins:pixie": {
+      "enabled": true,
+      "medievalorigins:pixie/pixie_properties": true,
+      "medievalorigins:pixie/feather_footed": true,
+      "medievalorigins:pixie/flight": true,
+      "medievalorigins:pixie/good_fortunes": true,
+      "medievalorigins:pixie/mischief_maketh_man": true,
+      "medievalorigins:pixie/curse_of_flight": true,
+      "medievalorigins:pixie/soaked": true,
+      "medievalorigins:pixie/troublemaker": true
+    },
+    "aspects:geo": {
+      "enabled": true,
+      "aspects:heavy_as_stone": true,
+      "aspects:resistance": true,
+      "aspects:explosion_damage": true,
+      "aspects:earthborn": true,
+      "aspects:deepdweller": true,
+      "aspects:start": true,
+      "aspects:geo_team": true
+    },
+    "mythorigins:fenrir": {
+      "enabled": true,
+      "mythorigins:fanged": true,
+      "mythorigins:dense_bones": true,
+      "mythorigins:icy_past": true,
+      "mythorigins:quadruped": true,
+      "mythorigins:no_armor": true,
+      "origins:sprint_jump": true,
+      "origins:tailwind": true,
+      "origins:carnivore": true
+    },
+    "medievalorigins:gorgon": {
+      "enabled": true,
+      "medievalorigins:gorgon/serpentine_companions": true,
+      "medievalorigins:gorgon/stony_gaze": true,
+      "medievalorigins:gorgon/super_strength": true,
+      "medievalorigins:gorgon/hydrophobe": true,
+      "medievalorigins:gorgon/petrification": true,
+      "medievalorigins:gorgon/silver_aversion": true
+    },
+    "libra:libra_arachnid": {
+      "enabled": true,
+      "origins:climbing": true,
+      "origins:master_of_webs": true,
+      "origins:carnivore": true,
+      "origins:fragile": true,
+      "origins:arthropod": true,
+      "libra:arachnid_callback": true,
+      "libra:arachnid_fangs": true,
+      "libra:arachnid_disgusting": true,
+      "libra:arachnid_taunt": true
+    },
+    "medievalorigins:knight": {
+      "enabled": true,
+      "medievalorigins:knight/for_honour_and_glory": true,
+      "medievalorigins:knight/skilled_swordsman": true,
+      "medievalorigins:knight/valour": true,
+      "medievalorigins:knight/burdened": true,
+      "medievalorigins:knight/magic_prone": true,
+      "medievalorigins:knight/melee4ever": true
+    },
+    "aspects:perditio": {
+      "enabled": true,
+      "aspects:void": true,
+      "aspects:undead": true,
+      "aspects:night_strength": true,
+      "aspects:day_aversion": true,
+      "aspects:voidborn": true,
+      "aspects:wither_damage": true,
+      "aspects:start": true,
+      "aspects:perditio_team": true
+    },
+    "origins:blazeborn": {
+      "enabled": true,
+      "origins:fire_immunity": true,
+      "origins:nether_spawn": true,
+      "origins:burning_wrath": true,
+      "origins:hotblooded": true,
+      "origins:water_vulnerability": true,
+      "origins:flame_particles": true,
+      "origins:damage_from_snowballs": true,
+      "origins:damage_from_potions": true
+    },
+    "origins-classes:farmer": {
+      "enabled": true,
+      "origins-classes:more_crop_drops": true,
+      "origins-classes:better_bone_meal": true
+    },
+    "extraorigins:floran": {
+      "enabled": true,
+      "extraorigins:green_thumb": true,
+      "extraorigins:photosynthesis": true,
+      "extraorigins:absorbing": true,
+      "extraorigins:flammable": true,
+      "extraorigins:nectarivore": true
+    },
+    "extra:nymph": {
+      "enabled": true,
+      "extra:forest_home": true,
+      "origins-classes:more_crop_drops": true,
+      "extra:dim_weak": true
+    },
+    "magick_origins:dryad": {
+      "enabled": true,
+      "magick_origins:photosynthesis": true,
+      "magick_origins:natures_ally": true,
+      "magick_origins:toggle": true,
+      "magick_origins:plant_walk": true,
+      "magick_origins:no_food": true,
+      "magick_origins:no_cake": true,
+      "magick_origins:weakness_dark": true,
+      "magick_origins:vulnerable_fire": true
+    },
+    "icarus:icarae": {
+      "enabled": true,
+      "icarus:wings": true,
+      "origins:aerial_combatant": true,
+      "icarus:hollow_bones": true,
+      "origins:no_shield": true,
+      "origins:carnivore": true
+    },
+    "medievalorigins:elf": {
+      "enabled": true,
+      "medievalorigins:elf/archer": true,
+      "medievalorigins:elf/forest_vision": true,
+      "medievalorigins:elf/hyper_sight": true,
+      "medievalorigins:elf/towering": true,
+      "medievalorigins:elf/steward": true,
+      "medievalorigins:elf/spindly": true,
+      "medievalorigins:elf/weak_melee": true
+    },
+    "aspects:ordo_layers/solus": {
+      "enabled": true,
+      "aspects:ordo/solus/fire_resistance": true,
+      "aspects:ordo/solus/sunbaked": true,
+      "aspects:ordo/solus/sun_bar": true,
+      "aspects:ordo/solus/decay": true,
+      "aspects:ordo/solus/solus_primary": true,
+      "aspects:ordo/solus/solus_secondary": true
+    },
+    "medievalorigins:goblin": {
+      "enabled": true,
+      "medievalorigins:goblin/cunning": true,
+      "medievalorigins:goblin/greedy": true,
+      "medievalorigins:goblin/nippy": true,
+      "medievalorigins:goblin/stunted": true,
+      "medievalorigins:goblin/frail": true
+    },
+    "aspects:hydro_layers/cryo": {
+      "enabled": true,
+      "aspects:hydro/cryo/cold_biomes": true,
+      "aspects:hydro/cryo/frost_walker": true,
+      "aspects:hydro/cryo/cryo_primary": true,
+      "aspects:hydro/cryo/cryo_secondary": true
+    },
+    "libra:wolf": {
+      "enabled": true,
+      "origins:carnivore": true,
+      "libra:wolf_damage_down": true,
+      "libra:wolf_health": true,
+      "libra:wolf_callback": true,
+      "libra:wolf_taunt": true,
+      "libra:wolf_pack_attack": true,
+      "libra:wolf_dog_vision": true,
+      "libra:wolf_ticks": true,
+      "libra:wolf_bonus_a": true,
+      "libra:wolf_projectiles": true,
+      "libra:wolf_alpha_chestplate": true,
+      "libra:wolf_primary_active": true
+    },
+    "extra:spellsword": {
+      "enabled": true,
+      "extra:sword_magic": true,
+      "origins-classes:better_enchanting": true,
+      "extra:weak_legs": true
+    },
+    "dac:baker": {
+      "enabled": true,
+      "dac:more_bread": true,
+      "dac:professional_baker": true
+    },
+    "libra:blessing_revenant": {
+      "enabled": true,
+      "libra:blessing_luck": true,
+      "libra:blessing_timer": true,
+      "libra:blessing_resource_duration": true,
+      "libra:blessing_revenant": true,
+      "libra:curse_tablet_use": true,
+      "libra:curse_reiteration_create": true
+    },
+    "libra:libra_human": {
+      "enabled": true,
+      "libra:human_callback": true,
+      "libra:human_monster_hunter": true,
+      "libra:human_monster_hunter_projectiles": true,
+      "libra:human_resilient": true,
+      "libra:human_health": true,
+      "libra:human_fast": true,
+      "libra:human_taunt": true
+    },
+    "aspects:anemo_layers/anemo": {
+      "enabled": true,
+      "aspects:anemo/fleet_footed": true,
+      "aspects:anemo/negate_fall_damage": true,
+      "aspects:anemo/chained": true,
+      "aspects:anemo/windborn": true,
+      "aspects:anemo/wise": true,
+      "aspects:start": true,
+      "aspects:anemo/anemo_team": true
+    },
+    "mythorigins:basilisk": {
+      "enabled": true,
+      "mythorigins:poison_breath": true,
+      "mythorigins:dragon_scales": true,
+      "origins:carnivore": true,
+      "origins:hotblooded": true,
+      "origins:more_exhaustion": true,
+      "mythorigins:snake_features": true
+    },
+    "libra:curse_covid": {
+      "enabled": true,
+      "libra:curse_covid_weakness": true,
+      "libra:covid_curse_timer": true,
+      "libra:covid_curse_contagion": true,
+      "libra:curse_bad_luck": true,
+      "libra:curse_cure": true,
+      "libra:curse_death_remove": true,
+      "libra:curse_tablet_use": true,
+      "libra:curse_tablet_reiteration": true,
+      "libra:curse_reiteration_create": true
+    },
+    "aspects:vacuos": {
+      "enabled": true
+    },
+    "origins-classes:blacksmith": {
+      "enabled": true,
+      "origins-classes:quality_equipment": true,
+      "origins-classes:efficient_repairs": true
+    },
+    "aspects:ordo": {
+      "enabled": true,
+      "aspects:holy_light": true,
+      "aspects:positive_influence": true,
+      "aspects:darkness_damage": true,
+      "aspects:night_aversion": true,
+      "aspects:holy": true,
+      "aspects:lightborn": true,
+      "aspects:start": true,
+      "aspects:ordo_team": true
+    },
+    "origins-classes:nitwit": {
+      "enabled": true
+    },
+    "origins:enderian": {
+      "enabled": true,
+      "origins:throw_ender_pearl": true,
+      "origins:water_vulnerability": true,
+      "origins:pumpkin_hate": true,
+      "origins:extra_reach": true,
+      "origins:ender_particles": true,
+      "origins:damage_from_potions": true
+    },
+    "aspects:geo/dendro": {
+      "enabled": true,
+      "aspects:flower_regen": true,
+      "aspects:poison_resistance": true,
+      "aspects:bonemeal": true,
+      "aspects:grass_speed": true,
+      "aspects:dendro_primary": true,
+      "aspects:dendro_secondary": true,
+      "aspects:golem_expire": true,
+      "aspects:golem_resource": true
+    },
+    "mythorigins:lamia": {
+      "enabled": true,
+      "origins:climbing": true,
+      "origins:carnivore": true
+    },
+    "libra:curse_avian": {
+      "enabled": true,
+      "libra:avian_curse_timer": true,
+      "libra:avian_curse_slowfall": true,
+      "libra:curse_bad_luck": true,
+      "libra:curse_cure": true,
+      "libra:curse_death_remove": true,
+      "libra:curse_tablet_use": true,
+      "libra:curse_tablet_reiteration": true,
+      "libra:curse_reiteration_create": true
+    },
+    "libra:libra_feline": {
+      "enabled": true,
+      "origins:fall_immunity": true,
+      "origins:sprint_jump": true,
+      "origins:velvet_paws": true,
+      "origins:nine_lives": true,
+      "origins:scare_creepers": true,
+      "origins:cat_vision": true,
+      "libra:feline_callback": true,
+      "libra:feline_resource_lives": true,
+      "libra:feline_nine_lives": true,
+      "libra:feline_flip_trigger": true,
+      "libra:feline_resource_flipping": true,
+      "libra:feline_flip_iframes": true,
+      "libra:feline_resource_mine": true,
+      "libra:feline_weak_arms": true,
+      "libra:feline_mine_tick_timer": true,
+      "libra:feline_taunt": true
+    },
+    "mythorigins:fairy": {
+      "enabled": true,
+      "mythorigins:faery_wings": true,
+      "mythorigins:tiny_body": true,
+      "mythorigins:tiny": true,
+      "origins:light_armor": true,
+      "origins:fall_immunity": true,
+      "origins:more_kinetic_damage": true,
+      "origins:weak_arms": true,
+      "mythorigins:less_exhaustion": true
+    },
+    "medievalorigins:necromancer": {
+      "enabled": true,
+      "medievalorigins:necromancer/hellraiser": true,
+      "medievalorigins:necromancer/resilient": true,
+      "medievalorigins:necromancer/impervious": true,
+      "medievalorigins:necromancer/poor_reputation": true,
+      "medievalorigins:necromancer/black_thumb": true,
+      "medievalorigins:necromancer/disturbed": true,
+      "medievalorigins:necromancer/unguarded": true
+    },
+    "libra:libra_wolf": {
+      "enabled": true,
+      "origins:carnivore": true,
+      "libra:wolf_damage_down": true,
+      "libra:wolf_health": true,
+      "libra:libra_wolf_callback": true,
+      "libra:wolf_taunt": true,
+      "libra:wolf_pack_attack": true,
+      "libra:wolf_ticks_alpha": true,
+      "libra:wolf_bonus_b": true,
+      "libra:wolf_projectiles": true,
+      "libra:wolf_upgrade": true,
+      "libra:wolf_upgrade_diamond": true,
+      "libra:wolf_upgrade_dire": true,
+      "libra:wolf_upgrade_greater_dire": true,
+      "libra:wolf_upgrade_netherite": true,
+      "libra:wolf_upgrade_self": true,
+      "libra:wolf_alpha_chestplate": true,
+      "libra:wolf_primary_active": true,
+      "libra:wolf_secondary_active": true
+    },
+    "aspects:hydro_layers/altum": {
+      "enabled": true
+    },
+    "dac:wandering_trader": {
+      "enabled": true,
+      "dac:morning_deliveries": true,
+      "dac:elder_experience": true
+    },
+    "magick_origins:duergar": {
+      "enabled": true,
+      "magick_origins:cave_spawn": true,
+      "magick_origins:dark_vision": true,
+      "magick_origins:burrow": true,
+      "magick_origins:ore_sense": true,
+      "magick_origins:clumsy": true,
+      "magick_origins:weakness_light": true
+    },
+    "aspects:pyro/magmus": {
+      "enabled": true,
+      "aspects:magma_regen": true,
+      "aspects:knockback_resistance": true,
+      "aspects:increased_health": true,
+      "aspects:magmus_primary": true,
+      "aspects:magmus_secondary": true
+    },
+    "medievalorigins:banshee": {
+      "enabled": true,
+      "medievalorigins:banshee/ethereal": true,
+      "medievalorigins:banshee/hexed": true,
+      "medievalorigins:banshee/sonic_shriek": true,
+      "medievalorigins:banshee/flesheater": true,
+      "medievalorigins:banshee/iron_aversion": true,
+      "medievalorigins:banshee/immaterial": true
+    },
+    "origins:phantom": {
+      "enabled": true,
+      "origins:phantomize": true,
+      "origins:translucent": true,
+      "origins:phasing": true,
+      "origins:invisibility": true,
+      "origins:burn_in_daylight": true,
+      "origins:hunger_over_time": true,
+      "origins:fragile": true,
+      "origins:phantomize_overlay": true
+    },
+    "origins-classes:beastmaster": {
+      "enabled": true,
+      "origins-classes:tamed_animal_boost": true,
+      "origins-classes:tamed_potion_diffusal": true
+    },
+    "libra:blessing_necromancer": {
+      "enabled": true,
+      "libra:necro/blessing/mana": true,
+      "libra:necro/blessing/shield_summon": true,
+      "libra:necro/blessing/evict": true,
+      "libra:blessing_luck": true,
+      "libra:blessing_timer": true,
+      "libra:blessing_resource_duration": true,
+      "libra:blessing_death_remove": true,
+      "libra:curse_tablet_use": true,
+      "libra:curse_reiteration_create": true
+    },
+    "libra:curse_phantom": {
+      "enabled": true,
+      "libra:phantom_curse_phase": true,
+      "libra:phantom_curse_hunger": true,
+      "libra:phantom_curse_pain": true,
+      "libra:curse_bad_luck": true,
+      "libra:curse_cure": true,
+      "libra:curse_death_remove": true,
+      "libra:curse_tablet_use": true,
+      "libra:curse_tablet_reiteration": true,
+      "libra:curse_reiteration_create": true
+    },
+    "origins:avian": {
+      "enabled": true,
+      "origins:slow_falling": true,
+      "origins:fresh_air": true,
+      "origins:like_air": true,
+      "origins:tailwind": true,
+      "origins:lay_eggs": true,
+      "origins:vegetarian": true
+    },
+    "libra:blessing_sylvan": {
+      "enabled": true,
+      "libra:blessing_luck": true,
+      "libra:blessing_timer": true,
+      "libra:blessing_resource_duration": true,
+      "libra:blessing_death_remove": true,
+      "libra:blessing_sylvan_crop": true,
+      "libra:curse_tablet_use": true,
+      "libra:curse_reiteration_create": true
+    },
+    "libra:blessing_charisma": {
+      "enabled": true,
+      "libra:blessing_luck": true,
+      "libra:blessing_timer": true,
+      "libra:blessing_resource_duration": true,
+      "libra:blessing_death_remove": true,
+      "libra:blessing_charisma": true,
+      "libra:blessing_charisma_tanky": true,
+      "libra:curse_tablet_use": true,
+      "libra:curse_reiteration_create": true
+    },
+    "libra:curse_giant": {
+      "enabled": true,
+      "libra:curse_giant_more_hongry": true,
+      "libra:curse_giant_callback": true,
+      "libra:curse_bad_luck": true,
+      "libra:curse_cure": true,
+      "libra:curse_death_remove": true,
+      "libra:curse_tablet_use": true,
+      "libra:curse_tablet_reiteration": true,
+      "libra:curse_reiteration_create": true
+    },
+    "mythorigins:elf": {
+      "enabled": true,
+      "mythorigins:bow_master": true,
+      "mythorigins:weak_body": true,
+      "mythorigins:keen_eyesight": true,
+      "mythorigins:elvon_armor": true,
+      "origins:fall_immunity": true,
+      "mythorigins:less_exhaustion": true
+    },
+    "medievalorigins:werewolf": {
+      "enabled": true,
+      "medievalorigins:werewolf/lycanthropy": true,
+      "medievalorigins:werewolf/carnivore": true,
+      "medievalorigins:werewolf/silver_aversion": true,
+      "medievalorigins:werewolf/drained": true,
+      "medievalorigins:werewolf/insatiable_hunger": true
+    },
+    "libra:libra_blazeborn": {
+      "enabled": true,
+      "origins:fire_immunity": true,
+      "origins:nether_spawn": true,
+      "origins:burning_wrath": true,
+      "origins:hotblooded": true,
+      "origins:water_vulnerability": true,
+      "origins:flame_particles": true,
+      "origins:damage_from_snowballs": true,
+      "origins:damage_from_potions": true,
+      "libra:blazeborn_callback": true,
+      "libra:blazeborn_resource_hover": true,
+      "libra:blazeborn_resource_hovering": true,
+      "libra:blazeborn_hover_ticks": true,
+      "libra:blazeborn_hover_hop": true,
+      "libra:blazeborn_burnt_wrath": true,
+      "libra:blazeborn_nether_swim": true,
+      "libra:blazeborn_nether_lava_vision": true,
+      "libra:blazeborn_taunt": true
+    },
+    "aspects:geo_layers/dendro": {
+      "enabled": true,
+      "aspects:geo/dendro/flower_regen": true,
+      "aspects:geo/dendro/poison_resistance": true,
+      "aspects:geo/dendro/grass_speed": true,
+      "aspects:geo/dendro/dendro_primary": true,
+      "aspects:geo/dendro/dendro_secondary": true,
+      "aspects:geo/dendro/golem_expire": true,
+      "aspects:geo/dendro/golem_resource": true
+    },
+    "mythorigins:centaur": {
+      "enabled": true,
+      "mythorigins:hoofed": true,
+      "mythorigins:hoofed_dummy": true,
+      "mythorigins:accurate": true,
+      "origins:fall_immunity": true,
+      "origins:sprint_jump": true,
+      "origins:vegetarian": true,
+      "origins:more_exhaustion": true,
+      "mythorigins:horse_body": true,
+      "mythorigins:arrow_crafter": true
+    },
+    "mythorigins:chimera": {
+      "enabled": true,
+      "mythorigins:poisonous_tail": true,
+      "mythorigins:quadruped": true,
+      "mythorigins:lions_mane": true,
+      "mythorigins:lion_strength": true,
+      "origins:carnivore": true,
+      "origins:cat_vision": true,
+      "origins:more_exhaustion": true,
+      "origins:nine_lives": true,
+      "origins:no_shield": true,
+      "origins:pumpkin_hate": true,
+      "origins:weak_arms": true,
+      "origins:tailwind": true
+    },
+    "mythorigins:hydra": {
+      "enabled": true,
+      "mythorigins:hydra": true,
+      "mythorigins:dragon_scales": true,
+      "mythorigins:three_lives": true,
+      "mythorigins:wither_shooter": true,
+      "mythorigins:explode": true,
+      "origins:carnivore": true,
+      "origins:more_exhaustion": true,
+      "origins:fire_immunity": true,
+      "origins:no_shield": true,
+      "mythorigins:triple_heads": true
+    },
+    "extraorigins:piglin": {
+      "enabled": true,
+      "extraorigins:all_that_glitters": true,
+      "extraorigins:piglin_neutrality": true,
+      "extraorigins:crossbow_master": true,
+      "origins:nether_spawn": true,
+      "extraorigins:homesick": true,
+      "origins:carnivore": true,
+      "extraorigins:flabby": true,
+      "extraorigins:soul_spooked": true
+    },
+    "ratsmischief:rat": {
+      "enabled": true
+    },
+    "libra:blessing_constitution": {
+      "enabled": true,
+      "libra:blessing_luck": true,
+      "libra:blessing_timer": true,
+      "libra:blessing_resource_duration": true,
+      "libra:blessing_death_remove": true,
+      "libra:blessing_constitution": true,
+      "libra:blessing_constitution_hit": true,
+      "libra:curse_tablet_use": true,
+      "libra:curse_reiteration_create": true
+    },
+    "origins:shulk": {
+      "enabled": true,
+      "origins:shulker_inventory": true,
+      "origins:natural_armor": true,
+      "origins:strong_arms": true,
+      "origins:strong_arms_break_speed": true,
+      "origins:no_shield": true,
+      "origins:more_exhaustion": true
+    },
+    "libra:curse_libra": {
+      "enabled": true,
+      "libra:libra_curse_timer": true,
+      "libra:curse_bad_luck": true,
+      "libra:curse_cure": true,
+      "libra:curse_death_remove": true,
+      "libra:curse_tablet_use": true,
+      "libra:curse_tablet_reiteration": true,
+      "libra:curse_reiteration_create": true
+    },
+    "libra:curse_arachnid": {
+      "enabled": true,
+      "libra:arachnid_curse_timer": true,
+      "libra:arachnid_curse_blind": true,
+      "libra:curse_bad_luck": true,
+      "libra:curse_cure": true,
+      "libra:curse_death_remove": true,
+      "libra:curse_tablet_use": true,
+      "libra:curse_tablet_reiteration": true,
+      "libra:curse_reiteration_create": true
+    },
+    "aspects:pyro/ignis": {
+      "enabled": true,
+      "aspects:hot_biomes": true,
+      "aspects:fire_strength": true,
+      "aspects:ignis_primary": true,
+      "aspects:ignis_secondary": true
+    },
+    "origins:merling": {
+      "enabled": true,
+      "origins:water_breathing": true,
+      "origins:water_vision": true,
+      "origins:aqua_affinity": true,
+      "origins:swim_speed": true,
+      "origins:like_water": true,
+      "origins:aquatic": true,
+      "origins:conduit_power_on_land": true,
+      "origins:air_from_potions": true
+    },
+    "medievalorigins:ogre": {
+      "enabled": true,
+      "medievalorigins:ogre/charge": true,
+      "medievalorigins:ogre/lead_belly": true,
+      "medievalorigins:ogre/stocky": true,
+      "medievalorigins:ogre/gargantuan": true,
+      "medievalorigins:ogre/ravenous": true,
+      "medievalorigins:ogre/sluggish": true,
+      "medievalorigins:ogre/xxxl": true,
+      "medievalorigins:ogre/unweildy": true,
+      "medievalorigins:ogre/ogre_properties": true
+    },
+    "extraorigins:inchling": {
+      "enabled": true,
+      "extraorigins:bite_sized": true,
+      "extraorigins:nimble": true,
+      "extraorigins:small_appetite": true,
+      "origins:climbing": true,
+      "extraorigins:jockey": true
+    },
+    "libra:curse_merling": {
+      "enabled": true,
+      "origins:water_breathing": true,
+      "origins:air_from_potions": true,
+      "libra:curse_bad_luck": true,
+      "libra:merling_curse_water_damage": true,
+      "libra:curse_cure": true,
+      "libra:curse_death_remove": true,
+      "libra:curse_tablet_use": true,
+      "libra:curse_tablet_reiteration": true,
+      "libra:curse_reiteration_create": true
+    },
+    "aspects:ordo_layers/ordo": {
+      "enabled": true,
+      "aspects:ordo/holy_light": true,
+      "aspects:ordo/positive_influence": true,
+      "aspects:ordo/darkness_damage": true,
+      "aspects:ordo/night_aversion": true,
+      "aspects:ordo/holy": true,
+      "aspects:ordo/lightborn": true,
+      "aspects:start": true,
+      "aspects:ordo/ordo_team": true
+    },
+    "libra:curse_nature": {
+      "enabled": true,
+      "libra:curse_nature": true,
+      "libra:curse_bad_luck": true,
+      "libra:curse_cure": true,
+      "libra:curse_death_remove": true,
+      "libra:curse_tablet_use": true,
+      "libra:curse_tablet_reiteration": true,
+      "libra:curse_reiteration_create": true
+    },
+    "aspects:geo_layers/geo": {
+      "enabled": true,
+      "aspects:geo/resistance": true,
+      "aspects:geo/explosion_damage": true,
+      "aspects:geo/earthborn": true,
+      "aspects:start": true,
+      "aspects:geo/geo_team": true
+    },
+    "mythorigins:imp": {
+      "enabled": true,
+      "mythorigins:burn": true,
+      "mythorigins:weak_body": true,
+      "mythorigins:hunched": true,
+      "origins:fire_immunity": true,
+      "origins:flame_particles": true,
+      "origins:nether_spawn": true,
+      "origins:weak_arms": true,
+      "origins:pumpkin_hate": true
+    },
+    "medievalorigins:arachnae": {
+      "enabled": true,
+      "medievalorigins:arachnae/climber": true,
+      "medievalorigins:arachnae/many_eyes": true,
+      "medievalorigins:arachnae/venomous_bite": true,
+      "medievalorigins:arachnae/web_slinger": true,
+      "medievalorigins:arachnae/bottomless_stomach": true,
+      "medievalorigins:arachnae/brittle": true,
+      "medievalorigins:arachnae/fragile_exoskeleton": true
+    },
+    "magick_origins:boomer": {
+      "enabled": true,
+      "magick_origins:throw_bomb": true,
+      "magick_origins:immune_explosion": true,
+      "magick_origins:wet_powder": true,
+      "magick_origins:burn_forever": true
+    },
+    "aspects:pyro_layers/ignis": {
+      "enabled": true,
+      "aspects:pyro/ignis/hot_biomes": true,
+      "aspects:pyro/ignis/fire_strength": true,
+      "aspects:pyro/ignis/ignis_primary": true,
+      "aspects:pyro/ignis/ignis_secondary": true
+    },
+    "libra:blessing_hexblade": {
+      "enabled": true,
+      "libra:blessing_luck": true,
+      "libra:blessing_timer": true,
+      "libra:blessing_resource_duration": true,
+      "libra:blessing_death_remove": true,
+      "libra:blessing_resource_hexblade": true,
+      "libra:blessing_hexblade_protection": true,
+      "libra:blessing_hexblade_barrier_hit": true,
+      "libra:curse_tablet_use": true,
+      "libra:curse_reiteration_create": true
+    },
+    "dac:butcher": {
+      "enabled": true,
+      "dac:better_meat": true,
+      "dac:favourite_tool": true
+    },
+    "origins-classes:warrior": {
+      "enabled": true,
+      "origins-classes:more_attack_damage": true,
+      "origins-classes:less_shield_slowdown": true
+    },
+    "medievalorigins:dwarf": {
+      "enabled": true,
+      "medievalorigins:dwarf/dwarven_tech": true,
+      "medievalorigins:dwarf/nocturnal_eyes": true,
+      "medievalorigins:dwarf/potent_brew": true,
+      "medievalorigins:dwarf/miniature": true,
+      "medievalorigins:dwarf/darkness_dweller": true,
+      "medievalorigins:dwarf/dense": true,
+      "medievalorigins:dwarf/photoallergic": true,
+      "medievalorigins:dwarf/pickaxeless_stone": true
+    },
+    "mythorigins:ogre": {
+      "enabled": true,
+      "mythorigins:brute_force": true,
+      "mythorigins:giant": true,
+      "mythorigins:giant_dummy": true,
+      "origins:pumpkin_hate": true,
+      "origins:strong_arms": true,
+      "origins:strong_arms_break_speed": true
+    },
+    "aspects:imp": {
+      "enabled": true
+    },
+    "mythorigins:cyclops": {
+      "enabled": true,
+      "mythorigins:blurry_vision": true,
+      "mythorigins:giant": true,
+      "mythorigins:giant_dummy": true,
+      "origins:claustrophobia": true,
+      "origins:fall_immunity": true,
+      "origins:more_exhaustion": true,
+      "origins:more_kinetic_damage": true,
+      "origins:strong_arms": true,
+      "origins:strong_arms_break_speed": true
+    },
+    "origins-classes:explorer": {
+      "enabled": true,
+      "origins-classes:explorer_kit": true,
+      "origins-classes:no_sprint_exhaustion": true
+    },
+    "libra:curse_dwarf": {
+      "enabled": true,
+      "libra:curse_dwarf_weak": true,
+      "libra:curse_dwarf_callback": true,
+      "libra:curse_bad_luck": true,
+      "libra:curse_cure": true,
+      "libra:curse_death_remove": true,
+      "libra:curse_tablet_use": true,
+      "libra:curse_tablet_reiteration": true,
+      "libra:curse_reiteration_create": true
+    },
+    "libra:curse_feline": {
+      "enabled": true,
+      "origins:weak_arms": true,
+      "libra:curse_bad_luck": true,
+      "libra:curse_cure": true,
+      "libra:curse_death_remove": true,
+      "libra:curse_tablet_use": true,
+      "libra:curse_tablet_reiteration": true,
+      "libra:curse_reiteration_create": true
+    },
+    "libra:libra_phantom": {
+      "enabled": true,
+      "origins:phantomize": true,
+      "origins:translucent": true,
+      "origins:phasing": true,
+      "origins:invisibility": true,
+      "libra:phantom_invis_in_dark": true,
+      "origins:burn_in_daylight": true,
+      "origins:hunger_over_time": true,
+      "origins:fragile": true,
+      "origins:fall_immunity": true,
+      "libra:phantom_callback": true,
+      "libra:phantom_taunt": true,
+      "origins:phantomize_overlay": true
+    },
+    "aspects:pyro_layers/pyro": {
+      "enabled": true,
+      "aspects:pyro/fire_immunity": true,
+      "aspects:pyro/nether_buff": true,
+      "aspects:pyro/water_damage": true,
+      "aspects:pyro/lava_vision": true,
+      "aspects:pyro/flameborn": true,
+      "aspects:start": true,
+      "aspects:pyro/melt": true,
+      "aspects:pyro/pyro_team": true
+    },
+    "origins-classes:rancher": {
+      "enabled": true,
+      "origins-classes:twin_breeding": true,
+      "origins-classes:more_animal_loot": true
+    },
+    "magick_origins:alchemist": {
+      "enabled": true,
+      "magick_origins:resource_wart": true,
+      "magick_origins:eat_wart": true,
+      "magick_origins:alchemy": true,
+      "magick_origins:frail": true,
+      "magick_origins:sickness": true
+    },
+    "libra:blessing_humanity": {
+      "enabled": true,
+      "libra:blessing_luck": true,
+      "libra:blessing_timer": true,
+      "libra:blessing_resource_duration": true,
+      "libra:blessing_death_remove": true,
+      "libra:blessing_humanity_damage": true,
+      "libra:blessing_humanity_damage_projectile": true,
+      "libra:blessing_humanity_health": true,
+      "libra:blessing_humanity_resistance": true,
+      "libra:blessing_humanity_speed": true,
+      "libra:curse_tablet_use": true,
+      "libra:curse_reiteration_create": true
+    },
+    "libra:blessing_dexterity": {
+      "enabled": true,
+      "libra:blessing_luck": true,
+      "libra:blessing_timer": true,
+      "libra:blessing_resource_duration": true,
+      "libra:blessing_death_remove": true,
+      "libra:blessing_dexterity_callback": true,
+      "libra:blessing_dexterity_speed": true,
+      "origins:fall_immunity": true,
+      "libra:curse_tablet_use": true,
+      "libra:curse_reiteration_create": true
+    },
+    "libra:curse_elytrian": {
+      "enabled": true,
+      "origins:light_armor": true,
+      "libra:curse_bad_luck": true,
+      "libra:curse_cure": true,
+      "libra:curse_death_remove": true,
+      "libra:curse_tablet_use": true,
+      "libra:curse_tablet_reiteration": true,
+      "libra:curse_reiteration_create": true
+    },
+    "origins-classes:miner": {
+      "enabled": true,
+      "origins-classes:more_stone_break_speed": true,
+      "origins-classes:no_mining_exhaustion": true
+    },
+    "aspects:anemo": {
+      "enabled": true,
+      "aspects:fleet_footed": true,
+      "aspects:negate_fall_damage": true,
+      "aspects:chained": true,
+      "aspects:windborn": true,
+      "aspects:wise": true,
+      "aspects:start": true,
+      "aspects:anemo_team": true
+    },
+    "aspects:pyro": {
+      "enabled": true,
+      "aspects:fire_immunity": true,
+      "aspects:nether_buff": true,
+      "aspects:water_damage": true,
+      "aspects:lava_vision": true,
+      "aspects:flameborn": true,
+      "aspects:start": true,
+      "aspects:melt": true,
+      "aspects:pyro_team": true
+    },
+    "libra:blessing_bladeborn": {
+      "enabled": true,
+      "libra:blessing_luck": true,
+      "libra:blessing_timer": true,
+      "libra:blessing_resource_duration": true,
+      "libra:blessing_death_remove": true,
+      "libra:blessing_bladeborn_fast_hands": true,
+      "libra:blessing_bladeborn_dull_axes": true,
+      "libra:curse_tablet_use": true,
+      "libra:curse_reiteration_create": true
+    },
+    "origins-classes:cook": {
+      "enabled": true,
+      "origins-classes:better_crafted_food": true,
+      "origins-classes:more_smoker_xp": true
+    },
+    "libra:curse_villager": {
+      "enabled": true,
+      "libra:curse_villager_melee": true,
+      "libra:curse_villager_projectiles": true,
+      "libra:curse_cure": true,
+      "libra:curse_death_remove": true,
+      "libra:curse_tablet_use": true,
+      "libra:curse_tablet_reiteration": true,
+      "libra:curse_reiteration_create": true
+    },
+    "libra:curse_breathing_land": {
+      "enabled": true,
+      "libra:breathing/twisted_lungs_water": true,
+      "libra:breathing/manual_breathing": true,
+      "libra:breathing/land_air_damage": true,
+      "origins:water_breathing": true,
+      "libra:curse_bad_luck": true,
+      "libra:curse_cure": true,
+      "libra:curse_death_remove": true,
+      "libra:curse_tablet_use": true,
+      "libra:curse_tablet_reiteration": true,
+      "libra:curse_reiteration_create": true
+    },
+    "libra:curse_breathing": {
+      "enabled": true,
+      "libra:breathing/twisted_lungs": true,
+      "libra:breathing/manual_breathing": true,
+      "libra:breathing/land_air_damage": true,
+      "libra:curse_bad_luck": true,
+      "libra:curse_cure": true,
+      "libra:curse_death_remove": true,
+      "libra:curse_tablet_use": true,
+      "libra:curse_tablet_reiteration": true,
+      "libra:curse_reiteration_create": true
+    },
+    "aspects:ordo/solus": {
+      "enabled": true,
+      "aspects:fire_resistance": true,
+      "aspects:sunbaked": true,
+      "aspects:sun_bar": true,
+      "aspects:decay": true,
+      "aspects:solus_primary": true,
+      "aspects:solus_secondary": true
+    },
+    "magick_origins:damned": {
+      "enabled": true,
+      "magick_origins:spawn_nether": true,
+      "magick_origins:group_undead": true,
+      "magick_origins:planeshift": true,
+      "magick_origins:feed_on_living": true,
+      "magick_origins:eat_flesh": true,
+      "magick_origins:no_cake": true,
+      "magick_origins:start_with_crown": true,
+      "origins:fragile": true,
+      "magick_origins:burn_daylight": true,
+      "magick_origins:immune_suffocation": true,
+      "magick_origins:immune_hunger": true
+    },
+    "medievalorigins:fae": {
+      "enabled": true,
+      "medievalorigins:fae/levitation": true,
+      "medievalorigins:fae/magic_resistance": true,
+      "medievalorigins:fae/regen": true,
+      "medievalorigins:fae/allure": true,
+      "medievalorigins:fae/diminutive": true,
+      "medievalorigins:fae/iron_aversion": true
+    },
+    "libra:curse_witchling": {
+      "enabled": true,
+      "libra:curse_witchling": true,
+      "libra:curse_bad_luck": true,
+      "libra:curse_cure": true,
+      "libra:curse_death_remove": true,
+      "libra:curse_tablet_use": true,
+      "libra:curse_tablet_reiteration": true,
+      "libra:curse_reiteration_create": true
+    },
+    "medievalorigins:siren": {
+      "enabled": true,
+      "medievalorigins:siren/siren_song": true,
+      "medievalorigins:siren/amphibious": true,
+      "medievalorigins:siren/holy_water": true,
+      "medievalorigins:siren/out_of_your_depth": true,
+      "medievalorigins:siren/prone": true,
+      "medievalorigins:siren/flammable": true,
+      "medievalorigins:siren/water_vision": true
+    },
+    "aspects:hydro/altum": {
+      "enabled": true
+    },
+    "magick_origins:warlock": {
+      "enabled": true,
+      "magick_origins:give_mana": true,
+      "magick_origins:levitate": true,
+      "magick_origins:craft_pearl_pieces": true,
+      "magick_origins:attunement": true,
+      "magick_origins:vulnerable_magic": true
+    },
+    "mythorigins:siren": {
+      "enabled": true,
+      "mythorigins:screech": true,
+      "mythorigins:water_breather": true,
+      "origins:aquatic": true,
+      "mythorigins:water_vision": true,
+      "origins:aqua_affinity": true,
+      "origins:like_water": true,
+      "origins:swim_speed": true,
+      "mythorigins:tender": true
+    },
+    "libra:libra_elytrian": {
+      "enabled": true,
+      "origins:elytra": true,
+      "origins:launch_into_air": true,
+      "origins:aerial_combatant": true,
+      "origins:light_armor": true,
+      "libra:elytrian_gunpowder": true,
+      "libra:elytrian_paper": true,
+      "libra:elytrian_callback": true,
+      "libra:elytrian_steel_wing_trigger": true,
+      "libra:elytrian_steel_wing_taunt": true
+    },
+    "aspects:anemo_layers/tempus": {
+      "enabled": true,
+      "aspects:anemo/tempus/fleet": true,
+      "aspects:anemo/tempus/storm_strength": true,
+      "aspects:anemo/tempus/lightning_immunity": true,
+      "aspects:anemo/tempus/tempus_primary": true,
+      "aspects:anemo/tempus/tempus_secondary": true
+    },
+    "magick_origins:atheist": {
+      "enabled": true,
+      "magick_origins:immune_magic": true,
+      "magick_origins:no_pearls": true,
+      "magick_origins:no_enchanting": true,
+      "magick_origins:no_experience": true,
+      "magick_origins:calm_down": true
+    },
+    "libra:curse_pride": {
+      "enabled": true,
+      "libra:curse_pride": true,
+      "libra:curse_bad_luck": true,
+      "libra:curse_cure": true,
+      "libra:curse_death_remove": true,
+      "libra:curse_tablet_use": true,
+      "libra:curse_tablet_reiteration": true,
+      "libra:curse_reiteration_create": true
+    },
+    "medievalorigins:troll": {
+      "enabled": true,
+      "medievalorigins:troll/ironhide": true,
+      "medievalorigins:troll/rock_throw": true,
+      "medievalorigins:troll/thunderous_stride": true,
+      "medievalorigins:troll/ham_fisted": true,
+      "medievalorigins:troll/mountainous": true,
+      "medievalorigins:troll/apex_predator": true,
+      "medievalorigins:troll/lumbering": true,
+      "medievalorigins:troll/old_blood": true,
+      "medievalorigins:troll/out_of_stock": true
+    },
+    "libra:curse_none": {
+      "enabled": true,
+      "libra:curse_apply": true,
+      "libra:curse_reiteration_create": true,
+      "libra:no_curse_tablet_use": true
+    },
+    "aspects:hydro": {
+      "enabled": true,
+      "aspects:water_breathing": true,
+      "aspects:constitution": true,
+      "aspects:fire_damage": true,
+      "aspects:waterborn": true,
+      "aspects:hydro_team": true
+    },
+    "libra:libra_avian": {
+      "enabled": true,
+      "origins:slow_falling": true,
+      "origins:fresh_air": true,
+      "origins:like_air": true,
+      "origins:tailwind": true,
+      "origins:lay_eggs": true,
+      "origins:vegetarian": true,
+      "libra:avian_callback": true,
+      "libra:avian_resource_momentum": true,
+      "libra:avian_resource_soaring": true,
+      "libra:avian_momentum_ticks": true,
+      "libra:avian_soar_jump": true,
+      "libra:avian_soar": true,
+      "libra:avian_golden_yolk": true,
+      "libra:avian_momentum_speed": true,
+      "libra:avian_taunt": true
+    },
+    "aspects:hydro/cryo": {
+      "enabled": true,
+      "aspects:cold_biomes": true,
+      "aspects:frost_walker": true,
+      "aspects:cryo_primary": true,
+      "aspects:cryo_secondary": true
+    },
+    "medievalorigins:paladin": {
+      "enabled": true,
+      "medievalorigins:paladin/holy_fire": true,
+      "medievalorigins:paladin/holy_instruments": true,
+      "medievalorigins:paladin/leech": true,
+      "medievalorigins:paladin/holy_curse": true,
+      "medievalorigins:paladin/well_built": true
+    },
+    "aspects:perditio/luna": {
+      "enabled": true,
+      "aspects:full_moon": true,
+      "aspects:nightwalker": true,
+      "aspects:wolf_affinity": true,
+      "aspects:invisibility": true,
+      "aspects:wither_immunity": true,
+      "aspects:luna_primary": true,
+      "aspects:luna_secondary": true
+    },
+    "origins-classes:rogue": {
+      "enabled": true,
+      "origins-classes:sneaky": true,
+      "origins-classes:stealth": true,
+      "origins-classes:stealth_descriptor": true
+    },
+    "mythorigins:phoenix": {
+      "enabled": true,
+      "mythorigins:second_wind": true,
+      "mythorigins:fire_feathers": true,
+      "mythorigins:ablaze": true,
+      "origins:slow_falling": true,
+      "origins:flame_particles": true,
+      "mythorigins:water_tolerance": true,
+      "mythorigins:water_tolerance_dummy": true,
+      "mythorigins:water_tolerance_dummy_2": true,
+      "mythorigins:water_tolerance_dummy_3": true,
+      "mythorigins:water_tolerance_dummy_4": true,
+      "mythorigins:water_tolerance_dummy_5": true,
+      "mythorigins:fire_breather_1": true,
+      "mythorigins:fire_breather_2": true,
+      "mythorigins:fire_breather_3": true,
+      "mythorigins:fire_breather_4": true,
+      "mythorigins:fire_breather_5": true,
+      "mythorigins:fire_breather_6": true,
+      "origins:burning_wrath": true,
+      "origins:tailwind": true
+    },
+    "origins:feline": {
+      "enabled": true,
+      "origins:fall_immunity": true,
+      "origins:sprint_jump": true,
+      "origins:velvet_paws": true,
+      "origins:nine_lives": true,
+      "origins:weak_arms": true,
+      "origins:scare_creepers": true,
+      "origins:cat_vision": true
+    },
+    "libra:libra_enderian": {
+      "enabled": true,
+      "origins:throw_ender_pearl": true,
+      "origins:water_vulnerability": true,
+      "origins:pumpkin_hate": true,
+      "origins:extra_reach": true,
+      "origins:ender_particles": true,
+      "origins:damage_from_potions": true,
+      "libra:enderian_rage_on_hit": true,
+      "libra:enderian_callback": true,
+      "libra:enderian_resource_rage": true,
+      "libra:enderian_resource_raging": true,
+      "libra:enderian_rage_tick_timer": true,
+      "libra:enderian_rage_speed": true,
+      "libra:enderian_rage_damage": true,
+      "libra:enderian_trigger_rage": true,
+      "libra:enderian_taunt": true
+    },
+    "medievalorigins:plague_victim": {
+      "enabled": true,
+      "medievalorigins:plague_victim/foul_aura": true,
+      "medievalorigins:plague_victim/plague_immunity": true,
+      "medievalorigins:plague_victim/risk_of_transmission": true,
+      "medievalorigins:plague_victim/contagious": true,
+      "medievalorigins:plague_victim/insomniac": true,
+      "medievalorigins:plague_victim/sensitive_skin": true,
+      "medievalorigins:plague_victim/skin_and_bones": true
+    },
+    "medievalorigins:daemon": {
+      "enabled": true,
+      "medievalorigins:daemon/daemon_fire": true,
+      "medievalorigins:daemon/hellborne": true,
+      "medievalorigins:daemon/carnivore": true,
+      "medievalorigins:daemon/unholy_deal": true,
+      "medievalorigins:daemon/hydrophobe": true,
+      "medievalorigins:daemon/impure": true,
+      "medievalorigins:daemon/overworld_weakness": true
+    },
+    "extra:scavenger": {
+      "enabled": true,
+      "extra:scavenger": true,
+      "extra:looter": true
+    },
+    "origins-classes:merchant": {
+      "enabled": true,
+      "origins-classes:trade_availability": true,
+      "origins-classes:rare_wandering_loot": true
+    },
+    "magick_origins:paladin": {
+      "enabled": true,
+      "magick_origins:spawn_village": true,
+      "magick_origins:heal": true,
+      "magick_origins:pacifist": true,
+      "magick_origins:craft_light_pearl": true,
+      "origins:vegetarian": true,
+      "magick_origins:weakness_nether": true
+    },
+    "aspects:perditio_layers/luna": {
+      "enabled": true,
+      "aspects:perditio/luna/full_moon": true,
+      "aspects:perditio/luna/nightwalker": true,
+      "aspects:perditio/luna/wolf_affinity": true,
+      "aspects:perditio/luna/invisibility": true,
+      "aspects:perditio/luna/wither_immunity": true,
+      "aspects:perditio/luna/luna_primary": true,
+      "aspects:perditio/luna/luna_secondary": true
+    },
+    "mythorigins:werewolf": {
+      "enabled": true,
+      "mythorigins:werewolf_like": true,
+      "mythorigins:full_moon": true,
+      "mythorigins:clawed": true,
+      "mythorigins:bloodlust": true,
+      "mythorigins:daytime": true,
+      "origins:sprint_jump": true,
+      "origins:more_exhaustion": true,
+      "origins:fall_immunity": true,
+      "origins:carnivore": true,
+      "mythorigins:meat_eater": true,
+      "mythorigins:hardened_stomach": true
+    },
+    "origins-classes:archer": {
+      "enabled": true,
+      "origins-classes:no_projectile_divergence": true,
+      "origins-classes:less_bow_slowdown": true
+    },
+    "aspects:perditio_layers/perditio": {
+      "enabled": true,
+      "aspects:perditio/void": true,
+      "aspects:perditio/undead": true,
+      "aspects:perditio/night_strength": true,
+      "aspects:perditio/day_aversion": true,
+      "aspects:perditio/voidborn": true,
+      "aspects:perditio/wither_damage": true,
+      "aspects:start": true,
+      "aspects:perditio/perditio_team": true
+    },
+    "extra:barbarian": {
+      "enabled": true,
+      "extra:axe_boost": true,
+      "extra:bloodlust": true,
+      "extra:combo": true,
+      "extra:combo_power": true,
+      "extra:combo_timer": true,
+      "extra:worse_enchanting": true
+    },
+    "aspects:hydro_layers/hydro": {
+      "enabled": true,
+      "aspects:hydro/water_breathing": true,
+      "aspects:hydro/constitution": true,
+      "aspects:hydro/fire_damage": true,
+      "aspects:hydro/waterborn": true,
+      "aspects:hydro/hydro_team": true,
+      "aspects:start": true
+    },
+    "libra:curse_myconoid": {
+      "enabled": true,
+      "libra:curse_myconoid_vision": true,
+      "libra:curse_myconoid_blind": true,
+      "libra:curse_myconoid_echolocate": true,
+      "libra:curse_cure": true,
+      "libra:curse_death_remove": true,
+      "libra:curse_tablet_use": true,
+      "libra:curse_tablet_reiteration": true,
+      "libra:curse_reiteration_create": true
+    },
+    "libra:curse_blazeborn": {
+      "enabled": true,
+      "origins:water_vulnerability": true,
+      "libra:blazeborn_curse_water_breathing": true,
+      "libra:curse_bad_luck": true,
+      "libra:curse_cure": true,
+      "libra:curse_death_remove": true,
+      "libra:curse_tablet_use": true,
+      "libra:curse_tablet_reiteration": true,
+      "libra:curse_reiteration_create": true
+    },
+    "origins:human": {
+      "enabled": true
+    },
+    "aspects:pyro_layers/magmus": {
+      "enabled": true,
+      "aspects:pyro/magmus/magma_regen": true,
+      "aspects:pyro/magmus/knockback_resistance": true,
+      "aspects:pyro/magmus/increased_health": true,
+      "aspects:pyro/magmus/magmus_primary": true,
+      "aspects:pyro/magmus/magmus_secondary": true
+    },
+    "origins-classes:lumberjack": {
+      "enabled": true,
+      "origins-classes:tree_felling": true,
+      "origins-classes:more_planks_from_logs": true
+    },
+    "libra:libra": {
+      "enabled": true,
+      "libra:librall/libra_callback": true,
+      "libra:librall/libra_primary_active": true,
+      "libra:librall/libra_secondary_active": true,
+      "libra:librall/libra_crysalys": true,
+      "libra:librall/libra_tablet_use": true,
+      "libra:librall/libra_tablet_craft": true,
+      "libra:librall/libra_passives": true,
+      "libra:librall/libra_bless": true,
+      "libra:librall/libra_curse": true,
+      "libra:aa_hi_merle_one_subfolder_lol": true
+    },
+    "medievalorigins:yeti": {
+      "enabled": true,
+      "medievalorigins:yeti/frigid_pulse": true,
+      "medievalorigins:yeti/from_whence_you_came": true,
+      "medievalorigins:yeti/frosty_breath": true,
+      "medievalorigins:yeti/titanic": true,
+      "medievalorigins:yeti/unstoppable": true,
+      "medievalorigins:yeti/winter_body": true,
+      "medievalorigins:yeti/flammable": true,
+      "medievalorigins:yeti/thick_fur": true
+    },
+    "origins-classes:cleric": {
+      "enabled": true,
+      "origins-classes:longer_potions": true,
+      "origins-classes:better_enchanting": true
+    },
+    "libra:curse_enderian": {
+      "enabled": true,
+      "origins:pumpkin_hate": true,
+      "libra:enderian_curse_onhit": true,
+      "libra:curse_bad_luck": true,
+      "libra:curse_cure": true,
+      "libra:curse_death_remove": true,
+      "libra:curse_tablet_use": true,
+      "libra:curse_tablet_reiteration": true,
+      "libra:curse_reiteration_create": true
+    },
+    "libra:libra_merling": {
+      "enabled": true,
+      "origins:water_breathing": true,
+      "origins:water_vision": true,
+      "origins:aqua_affinity": true,
+      "origins:swim_speed": true,
+      "origins:like_water": true,
+      "origins:aquatic": true,
+      "origins:conduit_power_on_land": true,
+      "libra:merling_air_from_potions": true,
+      "libra:merling_callback": true,
+      "libra:merling_rain_damage": true,
+      "libra:merling_dash": true,
+      "libra:merling_heart_of_sea": true,
+      "libra:merling_stormcaller": true,
+      "libra:merling_taunt": true
+    },
+    "origins:arachnid": {
+      "enabled": true,
+      "origins:climbing": true,
+      "origins:master_of_webs": true,
+      "origins:carnivore": true,
+      "origins:fragile": true,
+      "origins:arthropod": true
+    },
+    "libra:blessing_enderian": {
+      "enabled": true,
+      "libra:blessing_luck": true,
+      "libra:blessing_timer": true,
+      "libra:blessing_resource_duration": true,
+      "libra:blessing_death_remove": true,
+      "libra:blessing_enderian_parry": true,
+      "libra:blessing_enderian_parry_hit": true,
+      "libra:blessing_enderian_resource": true,
+      "libra:blessing_enderian_resource_parrying": true,
+      "libra:blessing_enderian_iframes": true,
+      "libra:curse_tablet_use": true,
+      "libra:curse_reiteration_create": true
+    },
+    "libra:libra_shulk": {
+      "enabled": true,
+      "origins:shulker_inventory": true,
+      "origins:natural_armor": true,
+      "origins:strong_arms": true,
+      "origins:strong_arms_break_speed": true,
+      "origins:no_shield": true,
+      "origins:more_exhaustion": true,
+      "libra:shulk_callback": true,
+      "libra:shulk_hiding": true,
+      "libra:shulk_resource_hiding": true,
+      "libra:shulk_hide_tick_timer": true,
+      "libra:shulk_hiding_trigger": true,
+      "libra:shulk_bonk": true,
+      "libra:shulk_bonk_self": true,
+      "libra:shulk_shielded_weakness": true,
+      "libra:shulk_hide_shell": true,
+      "libra:shulk_taunt": true,
+      "libra:shulk_hide_kbres": true,
+      "libra:shulk_shielded_nojump": true,
+      "libra:shulk_hide_projectiles": true,
+      "libra:shulk_shielded_slowness": true,
+      "libra:shulk_closed_vision": true
+    },
+    "extraorigins:truffle": {
+      "enabled": true,
+      "extraorigins:magic_spores": true,
+      "extraorigins:infestation": true,
+      "extraorigins:rooted": true,
+      "extraorigins:decomposition": true
+    },
+    "libra:curse_golem": {
+      "enabled": true,
+      "libra:golem/colossus": true,
+      "libra:golem/food/hungryiron": true,
+      "libra:golem/heavy": true,
+      "libra:golem/food/hungrygold": true,
+      "libra:golem/food/hungrynether": true,
+      "libra:golem/food/no_food": true,
+      "libra:golem/food/eat_iron_nugget": true,
+      "libra:golem/food/eat_gold_nugget": true,
+      "libra:golem/food/eat_scrap": true,
+      "libra:golem/food/eat_nether_block": true,
+      "libra:golem/food/eat_iron_block": true,
+      "libra:golem/food/eat_gold_block": true,
+      "libra:curse_bad_luck": true,
+      "libra:curse_cure": true,
+      "libra:curse_death_remove": true,
+      "libra:curse_tablet_use": true,
+      "libra:curse_tablet_reiteration": true,
+      "libra:curse_reiteration_create": true
+    },
+    "mythorigins:harpy": {
+      "enabled": true,
+      "mythorigins:sharp_feathers": true,
+      "mythorigins:feather_shot": true,
+      "mythorigins:harpy_feathers": true,
+      "origins:aerial_combatant": true,
+      "origins:carnivore": true,
+      "origins:fall_immunity": true,
+      "origins:fragile": true,
+      "origins:no_shield": true,
+      "origins:sprint_jump": true,
+      "origins:lay_eggs": true,
+      "mythorigins:feathered_head": true,
+      "mythorigins:light_wings": true,
+      "mythorigins:meat_eater": true
+    }
+  }
+}

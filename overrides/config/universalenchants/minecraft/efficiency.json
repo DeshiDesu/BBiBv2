@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:digger"
+  ],
+  "incompatible": [
+    "spellbound:rock_collecting",
+    "spellbound:acceleration",
+    "spellbound:demolition"
+  ]
+}
