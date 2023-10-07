@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:spellbound_any_weapon"
+  ],
+  "incompatible": [
+    "spellbound:jousting",
+    "minecraft:power",
+    "spellbound:mounted",
+    "mcdw:smiting",
+    "spellbound:cave_in",
+    "minecraft:sharpness",
+    "mcdw:enigma_resonator",
+    "spellbound:impersonal",
+    "spellbound:rampage",
+    "minecraft:impaling",
+    "spellbound:attractive",
+    "minecraft:punch",
+    "spellbound:airline",
+    "spellbound:phase_leap",
+    "spellbound:tethering",
+    "spellbound:phase_strafe",
+    "minecraft:flame",
+    "mcdw:overcharge",
+    "mcdw:illagers_bane",
+    "minecraft:smite",
+    "spellbound:launching",
+    "minecraft:infinity",
+    "incantationem:swine_bane",
+    "spellbound:dullness",
+    "spellbound:priming",
+    "mcdw:void_strike",
+    "minecraft:bane_of_arthropods",
+    "spellbound:repulsive"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor",
+    "$minecraft:universal_enchants_horse_armor"
+  ],
+  "incompatible": [
+    "origins:water_protection",
+    "spellbound:flesh_wound",
+    "minecraft:fire_protection",
+    "spellbound:death_wish",
+    "bewitchment:magic_protection",
+    "minecraft:blast_protection",
+    "spellbound:red_alert",
+    "spellbound:grace",
+    "spellbound:hearty"
+  ]
+}

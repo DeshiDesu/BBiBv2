@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:bow",
+    "$minecraft:crossbow"
+  ],
+  "incompatible": [
+    "spellbound:jousting",
+    "minecraft:power",
+    "spellbound:mounted",
+    "mcdw:replenish",
+    "spellbound:skotosynthetic",
+    "spellbound:resurfacing",
+    "spellbound:rampage",
+    "mcdw:dipping_poison",
+    "spellbound:trophy_collecting",
+    "spellbound:dullness",
+    "mcdw:chain_reaction",
+    "spellbound:priming",
+    "spellbound:selfish",
+    "spellbound:legacy",
+    "spellbound:metabolising",
+    "spellbound:photosynthetic"
+  ]
+}

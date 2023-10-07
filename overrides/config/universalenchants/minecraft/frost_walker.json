@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_feet",
+    "$minecraft:universal_enchants_horse_armor"
+  ],
+  "incompatible": [
+    "spellbound:impersonal",
+    "spellbound:phase_strafe",
+    "minecraft:depth_strider",
+    "spellbound:attractive",
+    "spellbound:airline",
+    "spellbound:cave_in",
+    "spellbound:phase_leap",
+    "spellbound:repulsive",
+    "spellbound:launching",
+    "spellbound:tethering"
+  ]
+}

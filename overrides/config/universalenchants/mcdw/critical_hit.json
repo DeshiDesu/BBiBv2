@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon"
+  ],
+  "incompatible": [
+    "mcdw:poison_cloud",
+    "mcdw:committed",
+    "mcdw:echo",
+    "mcdw:smiting",
+    "mcdw:dynamo",
+    "mcdw:enigma_resonator",
+    "mcdw:shared_pain",
+    "mcdw:weakening",
+    "mcdw:void_shot",
+    "mcdw:chains",
+    "mcdw:swirling",
+    "mcdw:exploding",
+    "mcdw:gravity",
+    "mcdw:shockwave",
+    "mcdw:ambush",
+    "mcdw:void_strike",
+    "mcdw:pain_cycle",
+    "mcdw:thundering"
+  ]
+}

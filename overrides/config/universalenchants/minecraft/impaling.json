@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:trident",
+    "$minecraft:weapon",
+    "$minecraft:universal_enchants_axe"
+  ],
+  "incompatible": [
+    "spellbound:jousting",
+    "spellbound:rampage",
+    "spellbound:trophy_collecting",
+    "spellbound:dullness",
+    "spellbound:mounted",
+    "spellbound:priming",
+    "minecraft:bane_of_arthropods",
+    "minecraft:smite"
+  ]
+}

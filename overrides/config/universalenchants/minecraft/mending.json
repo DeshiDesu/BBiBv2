@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:breakable"
+  ],
+  "incompatible": [
+    "spellbound:skotosynthetic",
+    "spellbound:resurfacing",
+    "spellbound:selfish",
+    "spellbound:legacy",
+    "spellbound:metabolising",
+    "spellbound:photosynthetic"
+  ]
+}

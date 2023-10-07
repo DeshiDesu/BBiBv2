@@ -1,0 +1,106 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "DeshiDesu",
+      "uniqueId": "5339f81a-e68a-4589-bec8-4bc9c087a79a"
+    },
+    "time": 1696636177329,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/QCdKyjJvE7"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "DeshiDesu",
+      "uniqueId": "5339f81a-e68a-4589-bec8-4bc9c087a79a"
+    },
+    "time": 1696635710384,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/bsEmxGAhLt"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "DeshiDesu",
+      "uniqueId": "5339f81a-e68a-4589-bec8-4bc9c087a79a"
+    },
+    "time": 1696635137562,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/5oY8Zp7TcL"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "DeshiDesu",
+      "uniqueId": "5339f81a-e68a-4589-bec8-4bc9c087a79a"
+    },
+    "time": 1696633398774,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/xWdshXGar4"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "DeshiDesu",
+      "uniqueId": "5339f81a-e68a-4589-bec8-4bc9c087a79a"
+    },
+    "time": 1696633188938,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/JknBsl1Th3"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "DeshiDesu",
+      "uniqueId": "5339f81a-e68a-4589-bec8-4bc9c087a79a"
+    },
+    "time": 1696626556172,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/4XyEfWFSYD"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "DeshiDesu",
+      "uniqueId": "5339f81a-e68a-4589-bec8-4bc9c087a79a"
+    },
+    "time": 1696623419859,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/bOaOGfqNjT"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "DeshiDesu",
+      "uniqueId": "5339f81a-e68a-4589-bec8-4bc9c087a79a"
+    },
+    "time": 1696623340298,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/hLOn9SMlr8"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:spellbound_armor_maybe_shield"
+  ],
+  "incompatible": [
+    "origins:water_protection",
+    "spellbound:flesh_wound",
+    "minecraft:fire_protection",
+    "spellbound:death_wish",
+    "bewitchment:magic_protection",
+    "minecraft:blast_protection",
+    "spellbound:red_alert",
+    "minecraft:protection",
+    "spellbound:grace",
+    "minecraft:projectile_protection"
+  ]
+}
